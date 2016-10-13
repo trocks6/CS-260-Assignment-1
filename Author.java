@@ -1,12 +1,14 @@
 
-public class Category {
+public class Author {
 	
+	int    authorNumber;
 	int    booksAvailable;
 	
 	double bookCost;
 	
-	String category;
+	String firstName;
+	String lastName;
 	String bookName;
 	String bookSeries;
-
+	
 }
